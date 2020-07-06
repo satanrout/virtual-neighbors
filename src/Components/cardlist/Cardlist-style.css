@@ -1,0 +1,7 @@
+#cardlist {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+  padding: 5px;
+}

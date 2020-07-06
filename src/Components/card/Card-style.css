@@ -1,0 +1,27 @@
+/* main {
+  display: flex;
+  margin: 10px;
+} */
+
+#card {
+  display: flex;
+  width: 300px;
+  margin: 15px;
+  padding: 10px;
+  align-items: center;
+  flex-direction: column;
+  background-color: #e67e22;
+}
+
+h2,
+p {
+  margin: 5px;
+}
+
+img {
+  transition: all 0.3s;
+}
+
+img:hover {
+  transform: rotate(10deg);
+}
